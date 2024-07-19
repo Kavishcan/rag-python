@@ -3,3 +3,6 @@ langchain
 chromadb # Vector storage
 pytest
 boto3
+pdf2image
+pytesseract
+Pillow # Dependency for pytesseract

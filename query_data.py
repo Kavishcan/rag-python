@@ -19,8 +19,9 @@ Answer the question based only on the following context:
 
 ---
 
-Answer the question based on the above context and give the answer in rich text editor format: {question}
+Answer the question based on the above context and give the answer in rich editor : {question}
 """
+# Read the input paragraph and genrate multiple choice question and answers in the paragraph based on the above context : {question}
 
 
 def main():
